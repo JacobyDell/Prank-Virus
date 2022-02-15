@@ -1,2 +1,2 @@
 # Prank-Virus
-**DISCLAIMER** This is not real malware! **DISCLAIMER**
+\*DISCLAIMER\* This is not real malware \*DISCLAIMER\*
